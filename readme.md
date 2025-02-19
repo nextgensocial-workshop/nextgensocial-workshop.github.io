@@ -1,1 +1,1 @@
-DeWeb - International Workshop on Decentralizing the Web
+NextGen-Social Media Workshop @ ICWSM2025
